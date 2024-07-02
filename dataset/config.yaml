@@ -1,0 +1,8 @@
+path: dataset
+train: dataset/train
+test: dataset/test
+val: dataset/valid
+names:
+  0: head
+  1: helmet
+  2: person
